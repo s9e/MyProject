@@ -1,0 +1,13 @@
+{
+	"autoload": {
+		"psr-4": {
+			"My\\Project\\": "src"
+		}
+	},
+    "require": {
+        "s9e/text-formatter": "^2.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.4"
+    }
+}
